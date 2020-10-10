@@ -5,5 +5,6 @@ $(document).ready(function(){
 })
 
 function degree(){
-	location.href = "/NSKWeb/degree.html";
+	//location.href = "/NSKWeb/degree.html";
+	window.open("/NSKWeb/degree.html");
 }
